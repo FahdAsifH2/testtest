@@ -37,3 +37,5 @@ View the commit history: git log
 Reverting Back to a Previous Saved Point
 
 Reset to a previous commit: git reset --hard <commit-hash>
+
+ok
